@@ -1,4 +1,4 @@
 
-# ScyPy
+# SciPy
 
-About ScyPy library and its properties.
+About SciPy library and its properties.
